@@ -1,0 +1,2 @@
+### command to copy a fully packed folder to gcp bucket (04-05-2025)
+gsutil cp -r "H:\SQL_Backup\xp-asp1-db-pdn01_FULL\xp-aps1-db-p-1" gs://mssql_db_backups_asp1/xp-asp1-db-pdn01_FULL/xp-asp-db-pdn01/2025/05/04/
